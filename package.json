@@ -14,7 +14,7 @@
     }
   ],
   "contributors": ["Nicola Molinari <emmenko@gmail.com>"],
-  "version": "2.4.0",
+  "version": "2.4.1",
   "engines": {
     "node": ">=0.10.0"
   },
